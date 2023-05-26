@@ -5,8 +5,8 @@ Get in touch!!
 <a target="_blank" href="https://www.linkedin.com/in/nidhidewangan03/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidhidewangan03/"/></a> &nbsp;
 <a href="mailto:nidew2003@gmail.com.com"><img src="https://img.shields.io/badge/gmail-red?&style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
 
-<h2 align="center">About Me</h2>
-I'm an Undergraduate pursuing CSE. A Passionate Learner exploring the domain in technical field. A community person part of some amazing tech communities.<br>Currently exploring the field of Cloud and AIML.
+<!-- <h2 align="center">About Me</h2>
+I'm an Undergraduate pursuing CSE. A Passionate Learner exploring the domain in technical field. A community person part of some amazing tech communities.<br>Currently exploring the field of Cloud and AIML. -->
 
 <br>
 <!-- <h2 align="center">Tech Activity</h2>
