@@ -9,8 +9,8 @@ Get in touch!!
 I'm an Undergraduate pursuing CSE. A Passionate Learner exploring the domain in technical field. A community person part of some amazing tech communities.<br>Currently exploring the field of Cloud and AIML.
 
 <br>
-<h2 align="center">Tech Activity</h2>
-<ul><li>Holiday Hacks Organiser</li><li>Microsoft Azure Devday Durg Organiser</li><li>HackClubSSTC</li><li>GDSC SSTC</li></ul>
+<!-- <h2 align="center">Tech Activity</h2>
+<ul><li>Holiday Hacks Organiser</li><li>Microsoft Azure Devday Durg Organiser</li><li>HackClubSSTC</li><li>GDSC SSTC</li></ul> -->
 
 
 
